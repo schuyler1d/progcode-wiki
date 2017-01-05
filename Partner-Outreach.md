@@ -14,6 +14,16 @@ Integration and partnership with tangential groups, including through web proper
 * Integrate partners into internal references and vice versa
 * Develop list of key target partners and potential existing network apps to join
 
+# Pilot Process
+
+If a pilot initiative is designated under the purview of Partner Outreach, the following things will happen:
+
+_This will be filled out by the coordinator_
+
+# Coordinatorship process
+
+_TBA_
+
 # Coordinator History
 
 | Term | Name |
