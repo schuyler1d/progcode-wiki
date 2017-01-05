@@ -28,7 +28,7 @@ _TBA_
 # Coordinator History
 
 
-| Time | Coordinator |
-| - | - |
+| Term | Coordinator |
+| --- | --- |
 | Fall 2016 | Dan Nicodemo |
 | Winter 2016-17 | _Search Ongoing_ |
