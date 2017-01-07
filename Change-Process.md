@@ -11,6 +11,7 @@ So, now that you have the background to how we think about change, it's time to 
 
 # **Process**
 1. Understand and define your change, including:
+
 * Description - what is the actual change? 
 * Function - which functional area does this impact? 
 * Benefit - why should we do this? 
