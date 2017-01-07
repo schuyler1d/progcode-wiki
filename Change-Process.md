@@ -21,7 +21,7 @@ So, now that you have the background to how we think about change, it's time to 
 
 2. Discuss your change in the appropriate functional channel. If you're not sure where that is, #operations is always a safe bet 
 3. Based on conversation refine your change and put it up for a vote
-4. Once approved, create a new issue under the appropriate function in the  [GitHub repo](https://github.com/ProgressiveCoders/functions) 
+4. Once approved, create a new issue under the appropriate function in the  [GitHub repo](https://github.com/ProgressiveCoders/functions/projects/1) 
 5. Implement, document and close your issue upon completion 
 
 # **Conclusion**
