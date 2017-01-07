@@ -17,7 +17,7 @@ So, now that you have the background to how we think about change, it's time to 
 * Benefit - why should we do this? 
 * Plan - how will we do this, what's updated? 
 
-```NOTE: if you're unsure about any of the above, give a shout in #ask-the-team. If you want to find out if something is already under way, check out our [GitHub repo](https://github.com/ProgressiveCoders/functions)```
+```NOTE: if you're unsure about any of the above, give a shout in #ask-the-team. If you want to find out if something is already under way, check out our [GitHub repo](https://github.com/ProgressiveCoders/functions) ```
 
 2. Discuss your change in the appropriate functional channel. If you're not sure where that is, #operations is always a safe bet 
 3. Based on conversation refine your change and put it up for a vote
