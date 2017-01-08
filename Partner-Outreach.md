@@ -13,6 +13,7 @@ Integration and partnership with tangential groups, including through web proper
 * Create partner integration plan
 * Integrate partners into internal references and vice versa
 * Develop list of key target partners and potential existing network apps to join
+* Maintain and coordinate all Partner Outreach related pilots
 
 # Pilot Process
 
@@ -22,7 +23,7 @@ _This will be filled out by the coordinator_
 
 # Coordinatorship process
 
-_TBA_
+Please go to #operations channel and express interest to the group there if you would like to be a coordinator/point person.
 
 # Coordinator History
 
