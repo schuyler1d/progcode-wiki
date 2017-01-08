@@ -4,15 +4,15 @@ This wiki contains all the functions that we as a network will use as a way to s
 
 # General Processes
 
-* [Change Process]
+* [Change Process](Change-Process)
 
 # Functions
 
-* [Audience Outreach]
-* [Partner Outreach]
-* [Evangelism]
+* [Audience Outreach](Audience-Outreach)
+* [Partner Outreach](Partner-Outreach)
+* [Evangelism](Evangelism)
 * App Strategy 
-* [Operations]
+* [Operations](Operations)
 * Design 
 * DevOps
 
