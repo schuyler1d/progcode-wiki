@@ -16,12 +16,13 @@ So, now that you have the background to how we think about change, it's time to 
 * Function - which functional area does this impact? 
 * Benefit - why should we do this? 
 * Plan - how will we do this, what's updated? 
+
 ```NOTE: if you're unsure about any of the above, give a shout in #ask-the-team. If you want to find out if something is already under way, check out our GitHub repo in Step 4 ```
 
-1. Discuss your change in the appropriate functional channel. If you're not sure where that is, #operations is always a safe bet 
-1. Based on conversation refine your change and put it up for a vote
-1. Once approved, create a new issue under the appropriate function in the  [GitHub repo](https://github.com/ProgressiveCoders/functions/projects/1) 
-1. Implement, document and close your issue upon completion 
+2. Discuss your change in the appropriate functional channel. If you're not sure where that is, #operations is always a safe bet 
+3. Based on conversation refine your change and put it up for a vote
+4. Once approved, create a new issue under the appropriate function in the  [GitHub repo](https://github.com/ProgressiveCoders/functions/projects/1) 
+5. Implement, document and close your issue upon completion 
 
 # **Conclusion**
 And there you have it, easy enough, right? If you've followed these steps you are officially on your way to being a champion Prog Code contributor, nice work! And for extra credit, maybe reading through this process you've noticed a TON of open holes that you want to help fill (e.g., where do we document processes, how do we track what needs to be updated for a change). If that's the case, feel free to return to step 1 and start improving the Prog Code community. Remember, everything starts with an idea, however ideas are strongest when they're nurtured and improved by a broader community, so no worries if you're not certain how to do everything on your own; that's exactly why we've been building this amazing community with an incredible diversity of skills and an eagerness for continual improvement. 
