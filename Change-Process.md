@@ -10,7 +10,7 @@ So, regardless of whether you have a brand new project idea, an improvement to a
 So, now that you have the background to how we think about change, it's time to put that into practical execution. As mentioned, the first major step is actually understanding what you want to change or improve; perhaps there's something you used in a different group that could benefit us here, or there's an unnecessarily bureaucratic process that could be simplified. Once you know what it is, it's time to get buyin. As we operate in a "Sociocratic" model, the focus is ensuring the community and team agree of the change's viability, rather than one individual. Finally, once you know your idea and have gotten buyin, it's time to implement and document the change. We'll get even more specific for what this looks like in the next step. 
 
 # **Process**
-*Step One;* Understand and define your change, including:
+*Step One:* Understand and define your change, including:
 
 * Description - what is the actual change? 
 * Function - which functional area does this impact? 
@@ -19,10 +19,13 @@ So, now that you have the background to how we think about change, it's time to 
 
 ```NOTE: if you're unsure about any of the above, give a shout in #ask-the-team. If you want to find out if something is already under way, check out our GitHub repo in Step 4 ```
 
-*Step Two;* Discuss your change in the appropriate functional channel. If you're not sure where that is, #operations is always a safe bet 
+*Step Two:* Discuss your change in the appropriate functional channel. If you're not sure where that is, #operations is always a safe bet 
+
 *Step Three:* Based on conversation refine your change and put it up for a vote
+
 *Step Four:* Once approved, create a new issue under the appropriate function in the  [GitHub repo](https://github.com/ProgressiveCoders/functions/projects/1) 
-*Step Five;* Implement, document and close your issue upon completion 
+
+*Step Five:* Implement, document and close your issue upon completion 
 
 # **Conclusion**
 And there you have it, easy enough, right? If you've followed these steps you are officially on your way to being a champion Prog Code contributor, nice work! And for extra credit, maybe reading through this process you've noticed a TON of open holes that you want to help fill (e.g., where do we document processes, how do we track what needs to be updated for a change). If that's the case, feel free to return to step 1 and start improving the Prog Code community. Remember, everything starts with an idea, however ideas are strongest when they're nurtured and improved by a broader community, so no worries if you're not certain how to do everything on your own; that's exactly why we've been building this amazing community with an incredible diversity of skills and an eagerness for continual improvement. 
