@@ -15,4 +15,5 @@ This wiki contains all the functions that we as a network will use as a way to s
 * [Operations](Operations)
 * Design 
 * DevOps
+* [Member Engagement](https://github.com/ProgressiveCoders/functions/wiki/Member-Engagement)
 
