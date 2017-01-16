@@ -18,11 +18,9 @@ _This will be filled out by the coordinator_
 
 Please go to #operations channel and express interest to the group there if you would like to be a coordinator/point person.
 
-# Slack Channel
-#member-services
 # Coordinator History
 
 | Term | Name |
 | --- | --- |
 | Fall 2016 | 
-| Winter 2016-17 |Preston |@progcodepreston
+| Winter 2016-17 |Preston- @preston |
