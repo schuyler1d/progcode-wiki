@@ -23,7 +23,7 @@ _This will be filled out by the coordinator_
 
 # Coordinatorship process
 
-_TBA_
+Anyone interested in being a part of the PR team or helping with audience outreach, please contact Dan Nicodemo directly through Slack - "@danodemo" - or send an e-mail request to dan@progcode.co
 
 # Coordinator History
 
