@@ -30,4 +30,4 @@ Please go to #operations channel and express interest to the group there if you 
 | Term | Name |
 | --- | --- |
 | Fall 2016 | Vigie Ramos-Rios |
-| Winter 2016-17 |
+| Winter 2016-17 | Rapi Castillo (temp) |
