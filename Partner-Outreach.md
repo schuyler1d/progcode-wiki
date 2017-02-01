@@ -31,3 +31,6 @@ Please go to #operations channel and express interest to the group there if you 
 | --- | --- |
 | Fall 2016 | Vigie Ramos-Rios |
 | Winter 2016-17 | Rapi Castillo (temp) |
+
+# Resources
+* [Prog Code Product Realization Guide - Presentation](https://docs.google.com/presentation/d/1JrhKzDlVN6Ed2rW9Hho2DAYKSqg_Olh9UFmWzfIZ4Ck/edit?usp=sharing)
