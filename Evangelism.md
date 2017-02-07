@@ -1,6 +1,6 @@
 # Abstract
 
-People to help develop community-facing conent (in partnership with other teams), deliver presentations in communities outside of ProgCode, on behalf of Progcode and the network of apps, and develop training and define repeatable processes for new team members to deliver.
+People to help develop community-facing content (in partnership with other teams), deliver presentations in communities outside of ProgCode, on behalf of Progcode and the network of apps, and develop training and define repeatable processes for new team members to deliver.
 
 # Roles
 
