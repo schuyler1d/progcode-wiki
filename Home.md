@@ -11,9 +11,7 @@ This wiki contains all the functions that we as a network will use as a way to s
 * [Audience Outreach](Audience-Outreach)
 * [Partner Outreach](Partner-Outreach)
 * [Evangelism](Evangelism)
-* App Strategy 
+* [Onboarding Team](Onboarding-Team)
 * [Operations](Operations)
-* Design 
-* DevOps
 * [Member Engagement](https://github.com/ProgressiveCoders/functions/wiki/Member-Engagement)
 
