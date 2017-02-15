@@ -1,8 +1,9 @@
-# Introduction
+# Onboarding Buddy
+## Introduction
 
 One of the most critical aspects to providing a continually improving, democratically driven community is making it as clear and straightforward as possible for new community members to contribute to the Prog Code community. In support of this, we want to establish an "onboarding buddy" process, wherein established members will be matched up new community members to help them get up to speed. The below outlines the initial Onboarding Buddy process
 
-# Process
+## Process
 
 1. New potential team member registers on the [Prog Code Website](https://www.progcode.co/)
 1. Applications reviewed for good fit
