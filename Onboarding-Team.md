@@ -13,6 +13,7 @@ One of the most critical aspects to providing a continually improving, democrati
 1. Community Engagement Team welcome new team members in #introduction
 1. Joe sends welcome direct message with link to [onboarding call](https://zoom.us/meeting/register/c07b1af895b269f3cde7dc3c8da9331e), copies Rapi
 1. Community member joins onboarding call, joins open discussion around [Prog Code values](https://medium.com/@joepbreslin/grassroots-tech-8676739a5960)
+    * Need inspiration? Check out [Onboarding Best Practices](https://docs.google.com/document/d/1E_qrY2a3BaBvNqiK6tCri87PqCrC-xdwAg1DO0dx_D0/edit?usp=sharing)
 1. Community Engagement Team member joins onboarding call, is introduced as onboarding buddy for cohort
 1. New private channel created for this month's cohort, onboarding buddies and call attendees join
 1. Onboarding buddies offer 1:1 call to provide detailed Prog Code overview and Q&A
