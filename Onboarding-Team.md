@@ -16,5 +16,8 @@ One of the most critical aspects to providing a continually improving, democrati
 1. Community Engagement Team member joins onboarding call, is introduced as onboarding buddy for cohort
 1. New private channel created for this month's cohort, onboarding buddies and call attendees join
 1. Onboarding buddies offer 1:1 call to provide detailed Prog Code overview and Q&A
-1. Onboarding buddy provides onboarding playlist: [Channel list Airtable](https://airtable.com/invite/l?inviteId=invyHESwh1q7Q3WQz&inviteToken=084014a222bfbc663161dff182f4cffa)
+1. Onboarding buddy provides onboarding playlist: 
+* [Channel list Airtable](https://airtable.com/shruhGsBZDvAZ2YMm)
+* [Project list Airtable](https://airtable.com/shrCBvIfOadeSVRt5)
+* [GitHub Pilot Initiatives](https://github.com/ProgressiveCoders/functions/projects/1)
 1. Onboarding buddy works community member to develop and execute personal plan
