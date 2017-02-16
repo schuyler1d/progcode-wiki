@@ -19,6 +19,7 @@ One of the most critical aspects to providing a continually improving, democrati
 1. Onboarding buddies offer 1:1 call to provide detailed Prog Code overview and Q&A
 1. Onboarding buddy provides onboarding playlist: 
     * [Channel list Airtable](https://airtable.com/shruhGsBZDvAZ2YMm)
-    * [Project list Airtable](https://airtable.com/shrCBvIfOadeSVRt5)
+    * [Project list Airtable (spreadsheet)](https://airtable.com/shrCBvIfOadeSVRt5)
+    * [Project list Airtable (cards)](https://airtable.com/shrlkqLhwWR9CGXMv)
     * [GitHub Pilot Initiatives](https://github.com/ProgressiveCoders/functions/projects/1)
 1. Onboarding buddy works community member to develop and execute personal plan
