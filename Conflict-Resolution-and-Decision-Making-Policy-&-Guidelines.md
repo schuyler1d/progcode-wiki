@@ -51,7 +51,7 @@ This will effectively be the go-to resource for the values, mission/vision, and 
 
 Voting is now closed for the *Ratification / Vote of Confidence on the ProgCode Staff Policy & Guidelines*
 
-:progressive-coder: 21 :+1:  -- 0 :-1: :progressive-coder:
+21 :+1:  -- 0 :-1:
 
 Ratification is passed.
 
