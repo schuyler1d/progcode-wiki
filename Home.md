@@ -15,3 +15,7 @@ This wiki contains all the functions that we as a network will use as a way to s
 * [Operations](Operations)
 * [Member Engagement](https://github.com/ProgressiveCoders/functions/wiki/Member-Engagement)
 
+
+# Operations Team Meetings
+
+* [Action Items](https://github.com/ProgressiveCoders/functions/labels/action-items)
