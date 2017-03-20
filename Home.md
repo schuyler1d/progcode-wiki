@@ -19,3 +19,4 @@ This wiki contains all the functions that we as a network will use as a way to s
 # Operations Team Meetings
 
 * [Action Items](https://github.com/ProgressiveCoders/functions/labels/action-items)
+* [Documentation](https://docs.google.com/document/d/14_E2SdWmlZ-qsUSqgTXkrzwF7ARt9LWzeDeL_zkoHHc/edit#)
