@@ -24,4 +24,4 @@ One of the most critical aspects to providing a continually improving, democrati
 * [GitHub Pilot Initiatives](https://github.com/ProgressiveCoders/functions/projects/1)
 * [Project list Airtable (cards)](https://airtable.com/shrlkqLhwWR9CGXMv)
 
-Onboarding buddy works community member to develop and execute [Personal Action Plan](https://docs.google.com/document/d/1lN9LYlb975RUalJaT7HRUAdBjGnNc2WSkQMj9p_gPic/edit)
+Onboarding buddy works with community member to develop and execute [Personal Action Plan](https://docs.google.com/document/d/1lN9LYlb975RUalJaT7HRUAdBjGnNc2WSkQMj9p_gPic/edit)
