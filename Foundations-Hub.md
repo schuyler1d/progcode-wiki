@@ -10,7 +10,7 @@ The general network strategy provides the direction of the organization in accor
 
 The GNS coordinator then sets the tone or provides the tone progressive coders network and sets the signal to be sent to the community. This means that one of the responsibilities of the GNS coordinator is to provide the daily updates and daily briefs in Slack and Daily Briefs in Medium.
 
-[More on **General Network Strategies**](General Network Strategy)
+[More on **General Network Strategies**](General-Network-Strategy)
 
 ## Operations
 
