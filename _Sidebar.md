@@ -1,1 +1,2 @@
-[Issue Focus: Health Care](Medicare-For-All)
+## Issue Focus
+[Medicare for All](Medicare-For-All)
