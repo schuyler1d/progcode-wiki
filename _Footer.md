@@ -4,4 +4,4 @@
 
 **General Processes**
 
-[Change Process](Change-Process)
+[Change Process](Change-Process) • [Volunteer Staff Handbook](https://progcodepreston.gitbooks.io/progcode-staffers-policy-guidelines/content/)
