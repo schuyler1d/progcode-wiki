@@ -57,7 +57,7 @@ These are the organizations and individuals we are aiming to reachout to.
 
 # Decision Making Details
 
-This issue focus was consented by the community via [Issue #142](https://github.com/ProgressiveCoders/functions/issues/142)
+This issue focus was consented by the community via [Issue #142](https://github.com/ProgressiveCoders/functions/issues/142) on March 26
 
 This was given the community's vote of confidence or March 31
 
