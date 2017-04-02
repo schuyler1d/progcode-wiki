@@ -4,6 +4,8 @@ Focus on, and champion the interest of the organization. This hub provides the f
 
 # Nodes
 
+The following are the nodes that comprise the foundations hub.
+
 ## General Network Strategy
 
 The general network strategy provides the direction of the organization in accordance to the direction of all the strategic parts of the house has been set. The general network strategy will be coordinated by the is – by label – the president of Progressive Coders Network. In truth, the GNS coordinator provides space and facilitation of ideas consolidated throughout the network, and is the point person for anything that relates to roadmaps that the whole community will take. 
