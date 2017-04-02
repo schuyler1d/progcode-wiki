@@ -37,8 +37,11 @@ These are the organizations and individuals we are aiming to reachout to.
 * 350 Broadway, Suite 210 Boulder, Colorado 80305
 * vm 303-499-3888
 
+### Whole Washington
 
 # Documentation
+
+
 
 | Date | Link |
 |-- |-- |
@@ -46,6 +49,11 @@ These are the organizations and individuals we are aiming to reachout to.
 | March 29, 2017 | [Healthcare Outreach Strategy](https://docs.google.com/document/d/1Nv1gjrTVcflSfVsTMQGx9JIG5iDB1dFwofxPTjz09QI/edit#heading=h.nmlr3xpdvlkn) |
 
 # Important Links
+
+* [Story on 2011 Effort for Universal Health Care in Vermont Full](http://www.pnhp.org/news/2015/january/what-happened-in-vermont-implications-of-the-pullback-from-single-payer)
+* [Video showing the Governor announcing the end of Health Care in Vermont](http://www.orcamedia.net/show/green-mountain-health-care-plan-december-17-2014%20http://www.sevendaysvt.com/OffMessage/archives/2014/12/17/in-striking-reversal-shumlin-abandons-single-payer-reforms)
+* [Video showing the birth of Single Payer Health Care in Canada (by the Canadian Film Board)](https://www.youtube.com/watch?v=tG9pNoUwtT4)
+* [Medicare 4 All subreddit](https://www.reddit.com/r/MedicareForAll/)
 
 # Decision Making Details
 
