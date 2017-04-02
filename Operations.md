@@ -1,5 +1,7 @@
 # Abstract
 
+The operations team provides the channels of participation for volunteer staff. Provides the decision making structures and processes necessary to create change within the community, and facilitate discussions on change processes and functions within the community.
+
 Drive ProgCode core team organizational structure and operating model, especially defining communication processes information capture and documentation. Key initial activities include team organization, decision making process, central work management system, and contribution tracking.
 
 # Roles
