@@ -4,14 +4,35 @@ Drive majority of discussions and strategies (messaging, empowerment, research, 
 
 As we have stated, we are focusing on the progressive issues that are at the forefront of our society. ProgCode is a community driven by issues, and as we are aiming to be the technological support arm of the Progressive grassroots movement, we must aim to highlight/amplify/provide support to the community at large.
 
-# Consent
+# Organizations
 
-This issue focus was consented by the community via [Issue #142](https://github.com/ProgressiveCoders/functions/issues/142)
+These are the organizations and individuals we are aiming to reachout to.
 
-This was given the community's vote of confidence or March 31
+### Healthcare NOW
 
-![image](https://cloud.githubusercontent.com/assets/25762075/24584615/fe7b4654-1740-11e7-96c6-dfcb94699137.png)
- 
+[Website](https://www.healthcare-now.org)
+
+### National Nurses Union / California Nurses Union
+
+* Address 155 Grand Ave Oakland, CA 94612
+* Phone: (510) 273-2200 
+* Fax: (510) 663-1625
+
+### Healthy California  
+
+* [Website](https://healthycaliforniacampaign.org/)
+* Address: 770 L St, Ste 1480, Sacramento CA 95814  
+* Phone: 800-745-30
+
+### Physicians for a National Health Program
+
+* [Website](http://www.pnhp.org/about/contact-us)
+
+### #GetOrganizedBK-New York State Subgroup
+
+### Colorado Cares
+
+### Colorado Foundation for Universal Health Care
 
 # Documentation
 
@@ -22,6 +43,14 @@ This was given the community's vote of confidence or March 31
 
 # Important Links
 
+# Decision Making Details
+
+This issue focus was consented by the community via [Issue #142](https://github.com/ProgressiveCoders/functions/issues/142)
+
+This was given the community's vote of confidence or March 31
+
+![image](https://cloud.githubusercontent.com/assets/25762075/24584615/fe7b4654-1740-11e7-96c6-dfcb94699137.png)
+ 
 # FAQs
 
 #### Are there any asks for the broader community, or are you just looking for a thumbs up as to what you'll be focusing on for the next three weeks?
