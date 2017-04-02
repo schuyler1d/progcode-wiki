@@ -4,9 +4,11 @@ This wiki contains all the functions that we as a network will use as a way to s
 
 [Organizational Structure](https://docs.google.com/document/d/1tZu7P1m_KxKNdq-NqWR9b93aoH4Tsc4tdDapanyiEOE/edit)
 
-# General Processes
+# Decision Making Processes
 
 * [Change Process](Change-Process)
+
+# Funding Framework
 
 # Functions
 
