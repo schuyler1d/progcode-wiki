@@ -19,9 +19,9 @@ For the Evangelism team, please submit all ideas / possible partners into a pilo
 I will then contact you and discuss! Or, please feel free to contact me. – Rapi
 
 ## In-person to Online Engagement
-A critical element of evangelism is connecting these efforts back to sustainable, online engagement.[This process](https://github.com/ProgressiveCoders/functions/wiki/In-Person-to-Online-Engagement-Process) defines the standard steps to extending in-person engagement to the online community.
+A critical element of evangelism is connecting these efforts back to sustainable, online engagement. [This process](https://github.com/ProgressiveCoders/functions/wiki/In-Person-to-Online-Engagement-Process) defines the standard steps to extending in-person engagement to the online community.
 
-# Coordinatorship process
+## Coordinatorship
 
 Please go to #operations channel and express interest to the group there if you would like to be a coordinator/point person.
 
