@@ -45,6 +45,7 @@ These are the organizations and individuals we are aiming to reachout to.
 
 | Date | Link |
 |-- |-- |
+| April 4, 2017 | [Touch Base pre-meeting](https://docs.google.com/a/progcode.org/document/d/1Vr32bYZbIxwGd8LX9xd4R5f7oHChQTay27HR5zJsvjo/edit?usp=sharing) |
 | March 31, 2017 | [Initial Strategy Meeting](https://docs.google.com/document/d/10J9eIeICO1ot3d9K1G645RUb7xarMxR1ujj7qITTp04/edit) |
 | March 29, 2017 | [Healthcare Outreach Strategy](https://docs.google.com/document/d/1Nv1gjrTVcflSfVsTMQGx9JIG5iDB1dFwofxPTjz09QI/edit#heading=h.nmlr3xpdvlkn) |
 
