@@ -11,11 +11,15 @@ People to help develop community-facing content (in partnership with other teams
 * Create onboarding plan for community evangelists
 * Become onboarding buddy
 
-# Change Process
+# Processes
 
+## Change
 For the Evangelism team, please submit all ideas / possible partners into a pilot (add an issue with the `evangelism` tag in it).
 
 I will then contact you and discuss! Or, please feel free to contact me. – Rapi
+
+## In-person to Online Engagement
+A critical element of evangelism is connecting these efforts back to sustainable, online engagement.[This process](https://github.com/ProgressiveCoders/functions/wiki/In-Person-to-Online-Engagement-Process) defines the standard steps to extending in-person engagement to the online community.
 
 # Coordinatorship process
 
