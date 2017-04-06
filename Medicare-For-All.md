@@ -1,4 +1,4 @@
-![diabetes-blood-sugar-diabetic-medicine-46173](https://cloud.githubusercontent.com/assets/25762075/24736291/21287430-1a55-11e7-8f74-38571b2b1186.png)
+![medicare4all](https://cloud.githubusercontent.com/assets/25762075/24736320/4b05779e-1a55-11e7-8b41-a60ba7df1007.png)
 
 # Description
 
