@@ -29,7 +29,7 @@ Coordinators are essentially point-persons whose main interest is to keep tabs o
 
 ### [Community Hub](Community-Hub)
 
-* [Onboarding](Onboarding-Team)
+* [Onboarding](Onboarding)
 * [Culture](Culture)
 * [Member Success & Services](Member-Success-Services)
 * [Evangelism](Evangelism)
