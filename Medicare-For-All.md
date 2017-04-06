@@ -8,7 +8,7 @@ As we have stated, we are focusing on the progressive issues that are at the for
 
 # Latest Update
 
-*April 5, 2017: * [Conference Call with Healthcare NOW, PNHP, and Colorado Foundation for Universal Healthcare](https://www.youtube.com/watch?v=d5mDyTeMCeU) ([Notes](https://progco.de/healthcare-mtg-1-notes))
+*April 5, 2017:* [Conference Call with Healthcare NOW, PNHP, and Colorado Foundation for Universal Healthcare](https://www.youtube.com/watch?v=d5mDyTeMCeU) ([Notes](https://progco.de/healthcare-mtg-1-notes))
 
 # Organizations
 
