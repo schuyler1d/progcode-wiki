@@ -6,9 +6,9 @@ Drive majority of discussions and strategies (messaging, empowerment, research, 
 
 As we have stated, we are focusing on the progressive issues that are at the forefront of our society. ProgCode is a community driven by issues, and as we are aiming to be the technological support arm of the Progressive grassroots movement, we must aim to highlight/amplify/provide support to the community at large.
 
-# Latest Updates
+# Latest Update
 
-[Conference Call with Healthcare NOW, PNHP, and Colorado Foundation for Universal Healthcare](https://www.youtube.com/watch?v=d5mDyTeMCeU) ([Notes](https://progco.de/healthcare-mtg-1-notes))
+*April 5, 2017: * [Conference Call with Healthcare NOW, PNHP, and Colorado Foundation for Universal Healthcare](https://www.youtube.com/watch?v=d5mDyTeMCeU) ([Notes](https://progco.de/healthcare-mtg-1-notes))
 
 # Organizations
 
