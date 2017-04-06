@@ -1,3 +1,5 @@
+![diabetes-blood-sugar-diabetic-medicine-46173](https://cloud.githubusercontent.com/assets/25762075/24736291/21287430-1a55-11e7-8f74-38571b2b1186.png)
+
 # Description
 
 Drive majority of discussions and strategies (messaging, empowerment, research, resources, partnerships) onto highlighting and supporting the drive for Medicare for All.
@@ -45,6 +47,8 @@ These are the organizations and individuals we are aiming to reachout to.
 
 | Date | Link |
 |-- |-- |
+| April 5, 2017 | [Universal Healthcare Round Table 1 - Video](https://www.youtube.com/watch?v=d5mDyTeMCeU)
+| April 5, 2017 | [Universal Healthcare Round Table 1 - Notes](https://progco.de/healthcare-mtg-1-notes)
 | April 4, 2017 | [Touch Base pre-meeting](https://docs.google.com/a/progcode.org/document/d/1Vr32bYZbIxwGd8LX9xd4R5f7oHChQTay27HR5zJsvjo/edit?usp=sharing) |
 | March 31, 2017 | [Initial Strategy Meeting](https://docs.google.com/document/d/10J9eIeICO1ot3d9K1G645RUb7xarMxR1ujj7qITTp04/edit) |
 | March 29, 2017 | [Healthcare Outreach Strategy](https://docs.google.com/document/d/1Nv1gjrTVcflSfVsTMQGx9JIG5iDB1dFwofxPTjz09QI/edit#heading=h.nmlr3xpdvlkn) |
