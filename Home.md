@@ -7,6 +7,7 @@ This wiki contains all the functions that we as a network will use as a way to s
 # Decision Making Processes
 
 * [Change Process](Change-Process)
+* [Service Conditions](Service-Conditions)
 
 # Funding Framework
 
