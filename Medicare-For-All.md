@@ -9,7 +9,7 @@ As we have stated, we are focusing on the progressive issues that are at the for
 # Latest Updates
 
 ### April 10, 2017
-[Conference Call with Georgia, Vivian, and Ryan from Whole Washington](https://www.youtube.com/watch?v=-Wso5qoFRoA) ([Notes](https://docs.google.com/document/d/1FBJfd2QMz5IP5KLzIHK2JA-6xajMAA0ynYcecO-fhCA/edit?usp=sharing))
+[Conference Call with Georgia, Vivian, and Ryan from Whole Washington](https://www.youtube.com/watch?v=-Wso5qoFRoA) ([Notes](http://progco.de/MzIxum))
 
 ### April 5, 2017 
 [Conference Call with Healthcare NOW, PNHP, and Colorado Foundation for Universal Healthcare](https://www.youtube.com/watch?v=d5mDyTeMCeU) ([Notes](https://progco.de/healthcare-mtg-1-notes))
@@ -55,7 +55,7 @@ These are the organizations and individuals we are aiming to reachout to.
 
 | Date | Link |
 |-- |-- |
-| April 10, 2017 | [Conference Call with Georgia, Vivian, and Ryan from Whole Washington](https://www.youtube.com/watch?v=-Wso5qoFRoA) ([Notes](https://docs.google.com/document/d/1FBJfd2QMz5IP5KLzIHK2JA-6xajMAA0ynYcecO-fhCA/edit?usp=sharing)) |
+| April 10, 2017 | [Conference Call with Georgia, Vivian, and Ryan from Whole Washington](https://www.youtube.com/watch?v=-Wso5qoFRoA) ([Notes](http://progco.de/MzIxum)) |
 | April 5, 2017 | [Universal Healthcare Round Table 1 - Video](https://www.youtube.com/watch?v=d5mDyTeMCeU)
 | April 5, 2017 | [Universal Healthcare Round Table 1 - Notes](https://progco.de/healthcare-mtg-1-notes)
 | April 4, 2017 | [Touch Base pre-meeting](https://docs.google.com/a/progcode.org/document/d/1Vr32bYZbIxwGd8LX9xd4R5f7oHChQTay27HR5zJsvjo/edit?usp=sharing) |
