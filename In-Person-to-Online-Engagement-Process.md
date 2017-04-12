@@ -10,7 +10,7 @@ As ProgCode continues to expand, one critical element is having deep in person t
 
 # Resources
 1. [Open Source Guide](https://opensource.guide/)
-1. [https://eddiejaoude.github.io/book-open-source-tips/](Open Source Tips)
+1. [Open Source Tips](https://eddiejaoude.github.io/book-open-source-tips/)
 
 # Future Considerations
 1. Establishing standard development issue template
