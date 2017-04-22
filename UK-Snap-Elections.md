@@ -14,7 +14,7 @@ This page covers all pertinent links and actions in ProgCode regarding UK Snap E
 * [UK Politics Dataset](http://bit.ly/UKPoliticsDatasets)
 * [Something New](https://somethingnew.org.uk) -  startup political party in the UK based on ideas of openness and collaboration being the way of the future. Basically better democracy via open source ideals.
 
-# News
+## News
 
 * [Young person voter registration has just shot through the roof](https://www.gov.uk/performance/register-to-vote/registrations-by-age-group)
 * [Theresa May 'called snap election to stop Corbyn resigning'](http://www.independent.co.uk/news/uk/politics/theresa-may-called-snap-election-fears-jeremy-corbyn-resign-general-a7690061.html), 19 Apr 2017
