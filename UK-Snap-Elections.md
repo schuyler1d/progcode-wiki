@@ -9,6 +9,7 @@ This page covers all pertinent links and actions in ProgCode regarding UK Snap E
 * [Join Coders for Labour](https://codersforlabour.slack.com/shared_invite/MTcwODA4ODM1NTQxLTE0OTI1MjI3NTktM2QzMTYzN2EwMw)
 
 # Links mentioned in #uk-snap-election channel (Latest at top)
+* [Big data analysis without personalisation](https://docs.google.com/document/d/1D5K-XJUiKWV9WRRJXMYfavCYEodb5xmDKpXQOfJD8Vo/edit?usp=sharing)
 * [Labour party Events](https://events.labour.org.uk/)
 * [UK Politics Dataset](http://bit.ly/UKPoliticsDatasets)
 * [Something New](https://somethingnew.org.uk) -  startup political party in the UK based on ideas of openness and collaboration being the way of the future. Basically better democracy via open source ideals.
