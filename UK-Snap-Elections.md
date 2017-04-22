@@ -1,14 +1,14 @@
-# Description
+## Description
 
 This page covers all pertinent links and actions in ProgCode regarding UK Snap Elections. All actions here come from the #uk-snap-election channel in [ProgCode](http://www.progcode.org)
 
-# Actions (Latest known action at top)
+## Actions (Latest known action at top)
 * [2017 Digital Democracy Open Letter](https://docs.google.com/document/d/1MZRD2UbzTU9iXnRBPS95cqDdQtHkP5f8HMBLcfcbr2E/edit)
 * [General Elections 2017 Tech Initiatives Handbook](http://bit.ly/GE2017TechInitiatives)
 * Meeting at Newspeak House on Apr 20. [Info here](https://attending.io/events/civic)
 * [Join Coders for Labour](https://codersforlabour.slack.com/shared_invite/MTcwODA4ODM1NTQxLTE0OTI1MjI3NTktM2QzMTYzN2EwMw)
 
-# Links mentioned in #uk-snap-election channel (Latest at top)
+## Links mentioned in #uk-snap-election channel (Latest at top)
 * [Big data analysis without personalisation](https://docs.google.com/document/d/1D5K-XJUiKWV9WRRJXMYfavCYEodb5xmDKpXQOfJD8Vo/edit?usp=sharing)
 * [Labour party Events](https://events.labour.org.uk/)
 * [UK Politics Dataset](http://bit.ly/UKPoliticsDatasets)
