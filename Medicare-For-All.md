@@ -55,6 +55,8 @@ These are the organizations and individuals we are aiming to reachout to.
 
 | Date | Link |
 |-- |-- |
+| April 20, 2017 | [Conference Call with Katie Robbins from PNHP NY Metro Chapter](https://www.youtube.com/watch?v=OyjmeBARfFc) |
+| April 14, 2017 | [Conference Call with Stephanie, Benjamin, and Michael from Healthcare-NOW!](https://youtu.be/P0w7J4ian6g) |
 | April 10, 2017 | [Conference Call with Georgia, Vivian, and Ryan from Whole Washington](https://www.youtube.com/watch?v=-Wso5qoFRoA) ([Notes](http://progco.de/MzIxum)) |
 | April 5, 2017 | [Universal Healthcare Round Table 1 - Video](https://www.youtube.com/watch?v=d5mDyTeMCeU)
 | April 5, 2017 | [Universal Healthcare Round Table 1 - Notes](https://progco.de/healthcare-mtg-1-notes)
