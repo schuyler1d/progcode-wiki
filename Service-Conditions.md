@@ -16,5 +16,5 @@ With regards to setting budget projections, there are budget targets and service
 
 # Decision Making 
 
-Aside from these, before becoming a benefactor, one should be a partner that has been consented to by the volunteer staff team, and at the same time has had the blessing of the community through a community vote. For details on the decision making process, please checkout this ProgCode Wiki entry on Decision Making.
+Aside from these, before becoming a benefactor, one should be a partner that has been consented to by the volunteer staff team, and at the same time has had the blessing of the community through a community vote. For details on the decision making process, please checkout this ProgCode Wiki entry on [Decision Making](https://github.com/ProgressiveCoders/functions/wiki/Change-Process).
 
