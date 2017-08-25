@@ -13,7 +13,7 @@ One of the most critical aspects to providing a continually improving, democrati
 7. ProgCode Volunteer staff sends welcome direct message with link to [onboarding call](http://bit.ly/2lrVpqr)
 8. Community member joins onboarding call, joins open discussion around [Prog Code values](https://medium.com/@joepbreslin/grassroots-tech-8676739a5960)
 9. Volunteer staff leading onboarding call reviews [ProgCode Toolkit](toolkit.progcode.org/)
-9. Volunteer staff utilizes [Onboarding Best Practices](https://docs.google.com/document/d/1E_qrY2a3BaBvNqiK6tCri87PqCrC-xdwAg1DO0dx_D0/edit?usp=sharing)
+9. Volunteer staff utilizes [Onboarding Best Practices](https://docs.google.com/a/progcode.org/document/d/1Bib7mQzhovHdIzM8trzzNN1JkqzqrVmHvi-M9vJhwR4/edit?usp=sharing)
 10. Community Engagement Team member joins onboarding call, is introduced as onboarding buddy for cohort
 11. New private channel created monthly for cohort, onboarding buddies and call attendees added
 12. Onboarding buddies offer 1:1 call to provide detailed Prog Code overview and Q&A
