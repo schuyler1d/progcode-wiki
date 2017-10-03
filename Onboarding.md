@@ -7,7 +7,7 @@ One of the most critical aspects to providing a continually improving, democrati
 
 1. New potential team member registers on the [Prog Code Website](https://www.progcode.co/)
 2. Applications reviewed for good fit
-3. Rapi sends initial welcome email
+3. Volunteer staffer sends initial welcome email
 4. Community member joins [Prog Code Slack](progcode.slack.com/)
 6. Community Engagement Team welcomes new team members in #introduction
 7. ProgCode Volunteer staff sends welcome direct message with link to [onboarding call](http://bit.ly/2lrVpqr)
