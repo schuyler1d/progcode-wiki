@@ -40,6 +40,7 @@ Coordinators are essentially point-persons whose main interest is to keep tabs o
 * [Strategic Partnerships](Strategic-Partnerships)
 * [Partner Advocacy](Partner-Advocacy)
 * [Issue Advocacy](Issue-Advocacy)
+* [Partner Onboarding](https://github.com/ProgressiveCoders/functions/wiki/Partner-Onboarding)
 
 ### [Communications Hub](Communications-Hub)
 
