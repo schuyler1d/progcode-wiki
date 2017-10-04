@@ -49,6 +49,8 @@ These are the organizations and individuals we are aiming to reachout to.
 
 ### Whole Washington
 
+* [Website](http://http://www.wholewashington.org)
+
 # Documentation
 
 
