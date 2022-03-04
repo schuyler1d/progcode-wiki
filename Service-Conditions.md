@@ -1,6 +1,6 @@
 # Abstract
 
-This page provides context on those who are eligible for services of ProgCode. These are aimed to provide clear instructions on who we can serve, inline with our 501(c)(4) non-profit legal status.
+This page provides context on those who are eligible for services of ProgCode. These are aimed to provide clear instructions on who we can serve, inline with our 501(c)(3) non-profit legal status.
 
 With regards to setting budget projections, there are budget targets and services that are provided to various benefactors: operations, grassroots organizations, individuals, and partner applications. There are various conditions that have to be met before we can legally provide services to eligible recipients. This is covered in the service conditions hereafter.
 
