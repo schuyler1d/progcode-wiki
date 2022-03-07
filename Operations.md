@@ -22,6 +22,9 @@ Drive ProgCode core team organizational structure and operating model, especiall
 * Define systems and processes needed for networks of apps needs
 * Develop view for operational teams and functions
 
+
+See [this list](https://docs.google.com/spreadsheets/d/1obZG3EAHZK-fuVUDYvclpiT8PF6Wa_Vhqli4IUeDLMU/edit#gid=0) and [this list](https://docs.google.com/document/d/1_Zq3BK5RRhCD5kA-E-_vy20gBs2yRdPZSCLk_ngMJFc/edit) for additional ways you can support progcode.
+
 # Coordinatorship process
 
 Please go to #operations channel and express interest to the group there if you would like to be a coordinator/point person.
