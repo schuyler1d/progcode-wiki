@@ -209,26 +209,32 @@ If you say something that is found offensive, and you are called out on it, let�
 * Ask for tips / help with avoiding making the offense in the future.
 * Apologize and ask forgiveness.
 
+
 ## Script to introduce norms in a zoom meeting
 
 (30sec) Short script for meetings with all experienced attendees:
-“””
-Let’s affirm our community norms.
-We want to come to this space being supportive, welcoming, powerful and inclusive.
-Our magic phrases at TKTKprogcode.org/norms 
-1. “Let’s hear from everyone”
-2. “Impact”
-3. “I-statements” during arguments
-4. “Emotional Labor” or “E-labor” for short – 
-Let’s acknowledge and balance that and help each other with reminders if we need to adjust our behavior.
+
+> Let’s affirm our community norms.
+> We want to come to this space being supportive, welcoming, powerful and inclusive.
+> Our magic phrases at [https://progco.de/guidelines](https://progco.de/Guidelines) are
+> 1. “Let’s hear from everyone”
+> 2. “Impact”
+> 3. “I-statements” during arguments
+> 4. “Emotional Labor”
+> 5. “This is a 501c3 space”
+>
+> Let’s acknowledge and balance that and help each other with reminders if we need to adjust our behavior.
+
+
 “””
 (TODOTODO min) Longer script especially for meetings with one or more new attendees
 “””
-Our community norms for ProgCode meetings and slack are available at TKTKprogcode.org/norms. We want to come to this space being supportive, welcoming, powerful and inclusive. We have four magic phrases that anyone is encouraged to invoke if they think it’s appropriate:
+Our community norms for ProgCode meetings and slack are available at [https://progco.de/guidelines](https://progco.de/Guidelines). We want to come to this space being supportive, welcoming, powerful and inclusive. We have four magic phrases that anyone is encouraged to invoke if they think it’s appropriate:
 First is “Let’s hear from everyone” - sometimes described as “move up, move back” – if you notice yourself participating too much, then move into active listening and if you have been quiet then consider moving in and participating. If you think the conversation might be unbalanced say or type “Let’s hear from everyone” which doesn’t mean what was just said was wrong or even that participant should participate less, or someone specifically should participate more, but rather let’s all remember this norm and be attentive to our participation.
 Second is “Impact” - if someone says or types this and you notice you’ve said something that might impact someone else, then you’ll say “” (though please don’t interrupt someone else that’s talking) 
 TKTK
 “””
+
 
 ## Moderation Team
 
