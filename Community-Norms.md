@@ -241,7 +241,6 @@ If you say something that is found offensive, and you are called out on it, let�
 > Fifth, and finally, "This is a 501c3 space" -- That means we may not use it to advocate or oppose specific electoral candidates. But a comment such as "Representative Y's opposition to a $15 minimum wage is hurting the economy" is issue-based and relevant to the social and charitable purpose of ProgCode.
 >
 > Please take some time if you haven't already to read the full guidelines. They talk about specific channels in Slack and how we want to represent our Progressive Values in ProgCode spaces.
-“””
 
 
 ## Moderation Team
