@@ -226,13 +226,21 @@ If you say something that is found offensive, and you are called out on it, let�
 > Let’s acknowledge and balance that and help each other with reminders if we need to adjust our behavior.
 
 
-“””
-(TODOTODO min) Longer script especially for meetings with one or more new attendees
-“””
-Our community norms for ProgCode meetings and slack are available at [https://progco.de/guidelines](https://progco.de/Guidelines). We want to come to this space being supportive, welcoming, powerful and inclusive. We have four magic phrases that anyone is encouraged to invoke if they think it’s appropriate:
-First is “Let’s hear from everyone” - sometimes described as “move up, move back” – if you notice yourself participating too much, then move into active listening and if you have been quiet then consider moving in and participating. If you think the conversation might be unbalanced say or type “Let’s hear from everyone” which doesn’t mean what was just said was wrong or even that participant should participate less, or someone specifically should participate more, but rather let’s all remember this norm and be attentive to our participation.
-Second is “Impact” - if someone says or types this and you notice you’ve said something that might impact someone else, then you’ll say “” (though please don’t interrupt someone else that’s talking) 
-TKTK
+(~3 min) Longer script especially for meetings with one or more new attendees
+
+> Our community norms for ProgCode meetings and slack are available at [https://progco.de/guidelines](https://progco.de/Guidelines). We want to come to this space being supportive, welcoming, powerful and inclusive. We have a few magic phrases that everyone is encouraged to invoke if they think it’s appropriate and a moderation team on our slack.
+>
+> First is “Let’s hear from everyone” - sometimes described as “move up, move back” – if you notice yourself participating too much, then move into active listening and if you have been quiet then consider moving in and participating. If you think the conversation might be unbalanced say or type “Let’s hear from everyone” which doesn’t mean what was just said was wrong or even that participant should participate less, or someone specifically should participate more, but rather let’s all remember this norm and be attentive to our participation.
+>
+> Second is “Impact” - if someone says something that impacts you negatively or you think might have impacted someone else negatively, then you’ll say "Impact" to remind each other that we want to be mindful of our words and how they impact others. If someone says "impact" after something you've said, then you should respond “I appreciate you” (though please don’t interrupt someone else that’s talking and please follow the facilitator's lead after that). That's not admitting guilt, or anything -- our norms suggest that if you want to apologize for your words, then it's better to do so after the meeting or in-private.
+>
+> Third is “I-statements please” - if two or more people are going head-to-head and it's not feeling constructive than say "I-statements please" which suggests that if the discussion is to continue, then the speakers should speak in "I-statements" like "When X happens, I feel..." rather than "you XYZ" or speaking about people in categories.
+>
+> Fourth is "Emotional labor" -- this will often be said in a private DM. It requests some support or assistance in emotional labor that they're doing.  If you are feeling like you're taking on more emotional burdens for others in the space without support, then please reach out to someone. If you are new or don't know who to ask, then please DM the facilitator or someone on the [Moderation team] TKTK.
+>
+> Fifth, and finally, "This is a 501c3 space" -- That means we may not use it to advocate or oppose specific electoral candidates. But a comment such as "Representative Y's opposition to a $15 minimum wage is hurting the economy" is issue-based and relevant to the social and charitable purpose of ProgCode.
+>
+> Please take some time if you haven't already to read the full guidelines. They talk about specific channels in Slack and how we want to represent our Progressive Values in ProgCode spaces.
 “””
 
 
