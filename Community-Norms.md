@@ -102,30 +102,30 @@ Official Moderators and Project Leads are especially encouraged to monitor chann
 ### “Emotional Labor” or “E-labor” (for short)
 
 * What it means: Emotional labor is work supporting other people emotionally or minimizing our own needs for others' comfort/emotional well-being and exercising or communicating Emotional Intelligence into a discussion or space.
-  # While most of these norms/magic words are about moderating our/others impact or impact to the discussion, this one should be invoked for assistance or support
-  # You should use this word if/when you find yourself doing a lot, especially too much, emotional labor – you should DM a supportive colleague in the space or the meeting. If there is not one (like if you’re new!), consider DMing the meeting facilitator/Project Lead or a Moderator
-  # If you identify people may be doing too much/seem stressed/are burned out, look for opportunities to reach out to them to show your concern and offer your support
+  1. While most of these norms/magic words are about moderating our/others impact or impact to the discussion, this one should be invoked for assistance or support
+  2. You should use this word if/when you find yourself doing a lot, especially too much, emotional labor – you should DM a supportive colleague in the space or the meeting. If there is not one (like if you’re new!), consider DMing the meeting facilitator/Project Lead or a Moderator
+  3. If you identify people may be doing too much/seem stressed/are burned out, look for opportunities to reach out to them to show your concern and offer your support
 * How to self-moderate: 
-  # We are literally in this space to support each other. However, be mindful how much you are leaning someone emotionally and try to balance that with supporting them.
+  1. We are literally in this space to support each other. However, be mindful how much you are leaning someone emotionally and try to balance that with supporting them.
 * Expected Response
-  # Try to acknowledge it with an emoji or “ACK” (acknowledge) or other visual/text cue
-  # Often this will be in a private DM -- it may be asking for help -- that might just be encouragement/support after the person DID emotional labor OR it might be suggesting that they are tired or are not in a good space to do (more) emotional labor that they're identifying in the space. A good first step is to ask “How can I help?”
-  # If you are the facilitator, you can either support the person yourself or delegate (likely in-private) someone you trust to support the person
-  # Moderators in Slack should provide support and work on balancing solutions for a particular channel, likely keeping the requesting party anonymous and maybe not even that there was a request itself.
+  2. Try to acknowledge it with an emoji or “ACK” (acknowledge) or other visual/text cue
+  3. Often this will be in a private DM -- it may be asking for help -- that might just be encouragement/support after the person DID emotional labor OR it might be suggesting that they are tired or are not in a good space to do (more) emotional labor that they're identifying in the space. A good first step is to ask “How can I help?”
+  4. If you are the facilitator, you can either support the person yourself or delegate (likely in-private) someone you trust to support the person
+  5. Moderators in Slack should provide support and work on balancing solutions for a particular channel, likely keeping the requesting party anonymous and maybe not even that there was a request itself.
 
 ### “This is a 501c3 space”
 
 * What it means: Progressive Coders Network is a 501(c)3 non-profit, which means it is a non-partisan space to advocate progressive values, but that has restrictions on what kind of advocacy it can support especially around elections.
 * How to self-moderate: 
-  # A 501(c)(3) organization may not engage in electoral activities, and its assets may not be used to affect the outcome of an election. That distinguishes it from a 501(c)(4) or 527 organization. All three - c3, c4, & 527 - may engage in public policy and social issue activity.
-  # That does not restrict individual members from expressing opinions in the workspace about issues involving or the consequences of politicians' actions. If the context of the comment appears to have an electoral purpose (e.g., "We can't allow Candidate X to be re-elected."), then it would constitute advocacy and should not be allowed.
-  # But a comment such as "Representative Y's opposition to a $15 minimum wage is hurting the economy" is issue-based and relevant to the social and charitable purpose of ProgCode.
-  # Related, but not directly connected to our 501c3 status, gratuitous criticisms of persons, unconnected with a specific action or policy should be avoided and be kept to a minimum and considered expendable.
+  1. A 501(c)(3) organization may not engage in electoral activities, and its assets may not be used to affect the outcome of an election. That distinguishes it from a 501(c)(4) or 527 organization. All three - c3, c4, & 527 - may engage in public policy and social issue activity.
+  2. That does not restrict individual members from expressing opinions in the workspace about issues involving or the consequences of politicians' actions. If the context of the comment appears to have an electoral purpose (e.g., "We can't allow Candidate X to be re-elected."), then it would constitute advocacy and should not be allowed.
+  3. But a comment such as "Representative Y's opposition to a $15 minimum wage is hurting the economy" is issue-based and relevant to the social and charitable purpose of ProgCode.
+  4. Related, but not directly connected to our 501c3 status, gratuitous criticisms of persons, unconnected with a specific action or policy should be avoided and be kept to a minimum and considered expendable.
 * Expected Response
-  # Slack
-    # Delete or edit the relevant comments to uphold a non-partisan space.
-  # Zoom
-    # Cease advocating for or speaking against candidates and defer to facilitator.
+  1. Slack
+    i. Delete or edit the relevant comments to uphold a non-partisan space.
+  2. Zoom
+    i. Cease advocating for or speaking against candidates and defer to facilitator.
 
 
 
@@ -160,8 +160,7 @@ All these channels (including #dumpster-fire)
 | ------------------ | ----------- |
 | #ask-the-team      |   Talk with the board, staff, and project leaders about anything related to Prog Code’s mission or strategy. |
 | #dumpster-fire     |   A free-for-all, no holds barred fight on the state of politics. Burn tires, spew negativities, then after let's work on empowering the grassroots. Let off steam, but constructively!<br />NOTE: this and all channels are still subject to the above Discourse Guidelines and magic phrases |
-| #general-chit-chat |   A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.
-This space should represent our Progressive Values well, so new entrants can feel and understand the values of the community. |
+| #general-chit-chat |   A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.<br />This space should represent our Progressive Values well, so new entrants can feel and understand the values of the community. |
 | #introduction      |   Introduce yourself to the community! |
 | #jobs-and-vols     |   Solicit and seek opportunities, both volunteer and paid |
 | #operations        |   Discuss and engage on ProgCode operational planning and development. Primary initial destination for community members interested in contributing directly to the core ProgCode mission. We answer questions about community norms/guidelines here, too! <br /><br /> If you have questions or suggestions about *these* Norms and Guidelines, come to this channel! |
