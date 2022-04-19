@@ -1,20 +1,21 @@
-TABLE OF CONTENTS
-Norms and Guidelines    1
-Norms and Magic Words    1
-“Let’s hear from everyone” / “Let’s hear from others”    1
-“Impact”    2
-“I-statements please”    3
-“Emotional Labor” or “E-labor” (for short)    4
-“This is a 501c3 space”    4
-Progressive Values    5
-Channel Discourse Guidelines    6
-Specific Channels    6
-Basic Decency    6
-Script to introduce norms in a zoom meeting    7
-Moderation Team    8
-Moderator powers and responsibilities    8
-User Banning    9
-Process to create/maintain team    9
+## TABLE OF CONTENTS
+
+* [Norms and Guidelines](#norms-and-guidelines)
+  * [Channel Discourse Guidelines](#channel-discourse-guidelines)
+  * [Norms and Magic Words](#norms-and-magic-words)
+    * [“Let’s hear from everyone” / “Let’s hear from others”](#lets-hear-from-everyone--lets-hear-from-others)
+    * [“Impact”](#impact)
+    * [“I-statements please”](#i-statements-please)
+    * [“Emotional Labor” or “E-labor” (for short)](#emotional-labor-or-e-labor-for-short)
+    * [“This is a 501c3 space”](#this-is-a-501c3-space)
+  * [Progressive Values](#progressive-values)
+  * [Channel Details](#default-channels-general-chit-chat-dumpster-fire-etc)
+  * [Basic Decency](#basic-decency)
+  * [Script to introduce norms in a zoom meeting](#script-to-introduce-norms-in-a-zoom-meeting)
+  * [Moderation Team](#moderation-team)
+    * [Moderator powers and responsibilities](#moderation-powers-and-responsibilities)
+    * [User Banning](#user-banning)
+    * [Process to create/maintain team](#process-to-create-and-maintain-the-moderators-team)
 
 This document was ratified on [April 7th, 2022](https://docs.google.com/document/d/1BYcO0I871VNZk3QZjJhiBpS1zkh6ScyWA1CUtpOoigY/edit?pli=1#bookmark=id.eb9xnaszlb6) after operations meeting according to the [Change Process](https://github.com/ProgressiveCoders/functions/wiki/Change-Process).
 
