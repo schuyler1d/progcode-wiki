@@ -21,7 +21,6 @@ This document was ratified on [April 7th, 2022](https://docs.google.com/document
 By participating in the Progressive Coders Network you commit to abide by these norms and hold yourself responsible for upholding them.
 
 # Norms and Guidelines
-======================
 
 We want our community to be supportive, welcoming, powerful and inclusive. We should come to this space as Progressives and people that want to demonstrate our values and these norms and learn them more deeply as we work with others and in discussion.
 
@@ -30,7 +29,7 @@ If you are called with a magic word/phrase, then you should perform the expected
 If you read nothing else, learn the magic phrases and know to lookup the expected response if you see/hear it, and then read through the [Progressive Values](#progressive-values) section to understand the space you will help cultivate with us.
 
 ## Channel Discourse Guidelines
--------------------------------
+
 
 True for all channels including `#general-chit-chat` and even `#dumpster-fire` and Zoom chats
 
@@ -52,53 +51,53 @@ Official Moderators and Project Leads are especially encouraged to monitor chann
 ### “Let’s hear from everyone” / “Let’s hear from others”
 
 * What it means:
-  # It does NOT mean that the previous speaker(s) were wrong about anything, necessarily talking too much, or someone that's been quiet specifically must speak next.
-  # It DOES mean that it's a good moment in the meeting for folks to embrace the norm of "move up, move back" -- balancing succinct and purposeful talking/contributing with active listening and vice versa.
-  # We should also be sensitive to the full context of past discussions and someone's experience. If someone has been silent for many past meetings (different from someone new to the space) but is speaking more now, maybe that is good.  We should also be sensitive to people with experiences of marginalization -- maybe they have never or rarely been in a supportive space before! That said, a group is better when we balance our participation.
-  # Further reading: [Collective Intelligence](https://en.wikipedia.org/wiki/Collective_intelligence)
+  1. It does NOT mean that the previous speaker(s) were wrong about anything, necessarily talking too much, or someone that's been quiet specifically must speak next.
+  2. It DOES mean that it's a good moment in the meeting for folks to embrace the norm of "move up, move back" -- balancing succinct and purposeful talking/contributing with active listening and vice versa.
+  3. We should also be sensitive to the full context of past discussions and someone's experience. If someone has been silent for many past meetings (different from someone new to the space) but is speaking more now, maybe that is good.  We should also be sensitive to people with experiences of marginalization -- maybe they have never or rarely been in a supportive space before! That said, a group is better when we balance our participation.
+  4. Further reading: [Collective Intelligence](https://en.wikipedia.org/wiki/Collective_intelligence)
 * Expected Response
-  # Emoji-affirm in Slack or visually nod/thumbs-up in Zoom to acknowledge the magic phrase and then possibly check your participation level
+  5. Emoji-affirm in Slack or visually nod/thumbs-up in Zoom to acknowledge the magic phrase and then possibly check your participation level
 
 ### “Impact”
 
 * What it means:
-  # This says that someone may have been impacted by the words/topic/link. This is similar to “oops/ouch” norms, but we think the language here is a little more direct (and might feel a little less self-conscious to exercise) but if someone uses these terms, that’s ok and also consider them ‘magic’
-  # This statement does not necessarily imply 'guilt' or fault.
-  # If your words had negative impact, then consider apologizing if someone specific in the space might have felt impacted/targeted with your words, but recognize with our consent values that an impacted person does not owe you attention.
+  1. This says that someone may have been impacted by the words/topic/link. This is similar to “oops/ouch” norms, but we think the language here is a little more direct (and might feel a little less self-conscious to exercise) but if someone uses these terms, that’s ok and also consider them ‘magic’
+  2. This statement does not necessarily imply 'guilt' or fault.
+  3. If your words had negative impact, then consider apologizing if someone specific in the space might have felt impacted/targeted with your words, but recognize with our consent values that an impacted person does not owe you attention.
 * How to self-moderate
-  # Be continuously mindful that a discussion can and SHOULD include people from different experiences – avoid all -Isms, and think how to demonstrate constructive presence in the space to someone less experienced than you (we have some participating teenagers and people with kids on zoom calls!) 
-  # Use trigger warnings when appropriate. Possibly triggering content should always be behind a link or inside a slack thread reply with the top message – we suggest disabling the auto-image for triggering links.
+  1. Be continuously mindful that a discussion can and SHOULD include people from different experiences – avoid all -Isms, and think how to demonstrate constructive presence in the space to someone less experienced than you (we have some participating teenagers and people with kids on zoom calls!) 
+  2. Use trigger warnings when appropriate. Possibly triggering content should always be behind a link or inside a slack thread reply with the top message – we suggest disabling the auto-image for triggering links.
     * <b>Use Trigger warnings for at least: </b>
       <br />war | assault | trauma | vaccines | death
 * Expected Response
-  # Slack
-    # Emoji-affirm the statement (heart, thumbs-up, progcode-logo, etc)
-    # Consider editing or deleting your message
-    # Consider an apology
-  # Zoom
-    # The previous speaker (or whoever it was directed toward) should say or type "I appreciate you" and then NOTHING ELSE. This statement is meant only as an acknowledgement of the "magic word" but does not either necessarily admit fault/”guilt” nor does it constitute an apology. Of course, if someone else is speaking, then don’t interrupt them for the response – e.g. you can then type it out.
-    # The meeting facilitator (including if it was directed toward the facilitator) will decide if it should be addressed further and other attendees should support that decision – i.e. continue with the agenda.
-    # Any apology should not take time from the meeting (unless the facilitator suggests otherwise)
-    # Generally apologies are better when they are heart-felt and the person making it has had a moment to think on the events.
+  1. Slack
+    i. Emoji-affirm the statement (heart, thumbs-up, progcode-logo, etc)
+    i. Consider editing or deleting your message
+    i. Consider an apology
+  2. Zoom
+    i. The previous speaker (or whoever it was directed toward) should say or type "I appreciate you" and then NOTHING ELSE. This statement is meant only as an acknowledgement of the "magic word" but does not either necessarily admit fault/”guilt” nor does it constitute an apology. Of course, if someone else is speaking, then don’t interrupt them for the response – e.g. you can then type it out.
+    i. The meeting facilitator (including if it was directed toward the facilitator) will decide if it should be addressed further and other attendees should support that decision – i.e. continue with the agenda.
+    i. Any apology should not take time from the meeting (unless the facilitator suggests otherwise)
+    i. Generally apologies are better when they are heart-felt and the person making it has had a moment to think on the events.
 
 ### “I-statements please”
 
 * What it means: 
-  # Use this phrase when you see a discussion/argument heading toward personal attacks and/or someone posting with negative and/or non-constructive frames.
-  # An "I statement" starts "I feel...." or "When ...., I feel ..." and specifically avoids generalizations, "You ..." statements. It speaks about personal experience and feelings and how the topic is personal to you.
-  # Shifting to this mode should be a prompt toward de-escalation.
+  1. Use this phrase when you see a discussion/argument heading toward personal attacks and/or someone posting with negative and/or non-constructive frames.
+  2. An "I statement" starts "I feel...." or "When ...., I feel ..." and specifically avoids generalizations, "You ..." statements. It speaks about personal experience and feelings and how the topic is personal to you.
+  3. Shifting to this mode should be a prompt toward de-escalation.
 * How to self-moderate:
-  # Avoiding personal attacks is NOT the least we can do. We can do more. Even when describing someone’s behavior, it is helpful and often more impactful by describing the specific impact it has on yourself and why/when.
-  # If you can start seeing yourself in the American Chopper Meme – or even before! – then it also might be a good moment to use the “Emotional Labor” magic phrase below with a colleague or moderator and/or to consider how to de-escalate.
+  4. Avoiding personal attacks is NOT the least we can do. We can do more. Even when describing someone’s behavior, it is helpful and often more impactful by describing the specific impact it has on yourself and why/when.
+  5. If you can start seeing yourself in the American Chopper Meme – or even before! – then it also might be a good moment to use the “Emotional Labor” magic phrase below with a colleague or moderator and/or to consider how to de-escalate.
 * Expected Response:
-  # Slack
-    # Always Emoji-affirm the magic-phrase (heart, thumbs-up, ok-hand, raising-hand, progcode-logo, socialist pizza)
-    # All relevant participants should make sure their next statement is an "I statement", in-public and/or in a private chat
-    # Participants should make an effort toward de-escalation with consensus
-  # Zoom
-    # Be specifically mindful of the facilitator – e.g. if they want to shift topics or have marked an amount of time for something in the agenda, make sure to respect that
-    # If you have made a ‘you-statement’ or spoken in a generalization, also make sure to give space/time to who you were talking about if they are present.
-    # Shift to “I-statements” – describing why something affects you directly, and listen to others
+  1. Slack
+    i. Always Emoji-affirm the magic-phrase (heart, thumbs-up, ok-hand, raising-hand, progcode-logo, socialist pizza)
+    i. All relevant participants should make sure their next statement is an "I statement", in-public and/or in a private chat
+    i. Participants should make an effort toward de-escalation with consensus
+  2. Zoom
+    i. Be specifically mindful of the facilitator – e.g. if they want to shift topics or have marked an amount of time for something in the agenda, make sure to respect that
+    i. If you have made a ‘you-statement’ or spoken in a generalization, also make sure to give space/time to who you were talking about if they are present.
+    i. Shift to “I-statements” – describing why something affects you directly, and listen to others
 
 ### “Emotional Labor” or “E-labor” (for short)
 
@@ -131,7 +130,7 @@ Official Moderators and Project Leads are especially encouraged to monitor chann
 
 
 ## Progressive Values
----------------------
+
 
 Besides upholding these values personally, let’s try to demonstrate these values in our discussions 
 
@@ -153,7 +152,7 @@ Besides upholding these values personally, let’s try to demonstrate these valu
 
 
 ## Default Channels (#general-chit-chat, #dumpster-fire, etc)
--------------------------------------------------------------
+
 
 All these channels (including #dumpster-fire)
 
@@ -171,7 +170,7 @@ This space should represent our Progressive Values well, so new entrants can fee
 
 
 ## Basic Decency
-----------------
+
 
 This is from the older (and still active) [Progressive Coders Network - Community Guidelines](https://docs.google.com/document/d/1DMkULyml1hEx4ls5j2MSNmNNp38_wF2F0cAMDYeQYv8/edit#)
 
@@ -232,7 +231,7 @@ TKTK
 “””
 
 ## Moderation Team
-------------------
+
 
 ### Moderator powers and responsibilities
 
